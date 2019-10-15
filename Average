@@ -1,6 +1,6 @@
-Grade 1 = Input
-Grade 2 = Input
-Grade 3 = Input
+Grade 1 = A
+Grade 2 = B
+Grade 3 = C
 Average
 Status
 Average = (Grade 1 + Grade 2 + Grade 3) / 3
