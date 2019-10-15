@@ -1,0 +1,5 @@
+Give A, B, C a value
+Sum up A, B, C and Divide by 3
+If( Grade >= 60)
+{ Pass }
+Else { Fail }
