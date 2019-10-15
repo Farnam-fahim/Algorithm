@@ -1,5 +1,8 @@
-Give A, B, C a value
-Sum up A, B, C and Divide by 3
-If( Grade >= 60)
-{ Pass }
-Else { Fail }
+Grade 1 = Input
+Grade 2 = Input
+Grade 3 = Input
+Average
+Status
+Average = Grade 1 + Grade 2 + Grade 3 / 3
+If (Average >= 60) {Status = Pass}
+Else {Satus = Fail }
