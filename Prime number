@@ -10,10 +10,10 @@ If (N < 2) {Status = "np"}
 N += 1
 If (N = 2) {Status = "p"}
 N += 1
-If (N > 2) {Status = "run p"}
+If (N > 2) {Status = "Proccess p"}
 If (N > 100) {Status = "Stop"}
 Else {Status = "Continue"}
-p = N % d
+r = N % d
 If (r = 0) {Status = "np"}, N += 1, d = 2, proccess agian
 Else {Status "d += 1"}
 If (N = d) {Status = "p"}, N += 1, d = 2, proccess agian
