@@ -1,0 +1,5 @@
+Height(h) = Input
+Base(b) = Input
+Area = A
+A = (h * b)/2
+Print Area
