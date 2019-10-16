@@ -1,0 +1,5 @@
+Pi = 3.14
+Radius(r) = Input
+Area
+Area = (Pi)(r)^2
+Print Area
