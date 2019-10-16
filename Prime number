@@ -1,0 +1,8 @@
+Prime number = p
+Not Prime number = np
+Natural numbers = N
+Status
+p = N % N
+p != 1
+If (N <= 0) {Status = "np")
+Else {Status = "p"}
