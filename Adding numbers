@@ -1,0 +1,5 @@
+Sum = 0
+i = Input
+for(i=0; i<6; i++) {Sum = sum + i;
+console.log(i);}
+alert(sum);
