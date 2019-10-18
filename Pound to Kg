@@ -1,0 +1,3 @@
+pound=input
+kilo=pound*0.454
+print kilo
